@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @CosmyRK800
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact:I like gym
 
 <!---
